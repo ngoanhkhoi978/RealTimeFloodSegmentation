@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+rasterio
+torch
+segmentation-models-pytorch
+albumentations
+tqdm
+

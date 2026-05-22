@@ -1,0 +1,36 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE/editor
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project data/artifacts
+cache/
+data/
+models/
+outputs/
+
+# Logs/checkpoints
+outputs/checkpoints/
+outputs/logs/
+
+# Numpy arrays (large caches)
+*.npy
+
